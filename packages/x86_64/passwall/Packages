@@ -1,0 +1,222 @@
+Package: brook
+Version: 20221212-1
+Depends: libc, ca-bundle
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 5580650
+Filename: brook_20221212-1_x86_64.ipk
+Size: 5504661
+SHA256sum: ca7c843b47042b0a912f9c36c2cf7ee99e6b1575f82b75b30b726a071771c3e8
+Description:  Brook is a cross-platform strong encryption and not detectable proxy.
+ Zero-Configuration.
+
+Package: hysteria
+Version: 1.3.2-1
+Depends: libc, ca-bundle
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 6690597
+Filename: hysteria_1.3.2-1_x86_64.ipk
+Size: 6675412
+SHA256sum: cdba41f84c34d4b70bf226a8214cd44a74e2527ad06becb1b116b687f161d0b2
+Description:  Hysteria is a feature-packed network utility optimized for networks
+ of poor quality (e.g. satellite connections, congested public Wi-Fi,
+ connecting from China to servers abroad) powered by a custom version
+ of QUIC protocol.
+
+Package: naiveproxy
+Version: 108.0.5359.94-1-1
+Depends: libc, libatomic1
+License: BSD 3-Clause
+Section: net
+Architecture: x86_64
+Installed-Size: 2844188
+Filename: naiveproxy_108.0.5359.94-1-1_x86_64.ipk
+Size: 2842460
+SHA256sum: d600d1aa0b281a4d44554192b4739da29406ea2ae8e377a0f4356dde741c19ba
+Description:  NaïveProxy uses Chrome's network stack to camouflage traffic with strong
+ censorship resistance and low detectability. Reusing Chrome's stack also
+ ensures best practices in performance and security.
+
+Package: shadowsocks-rust-sslocal
+Version: 1.15.2-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 3062364
+Filename: shadowsocks-rust-sslocal_1.15.2-1_x86_64.ipk
+Size: 3042500
+SHA256sum: c65005006e8a4d1ce4e8c94a548cbf54c7bf3ba71da980f3cab3aad979c41cc5
+Description:  shadowsocks-rust sslocal
+
+Package: shadowsocks-rust-ssmanager
+Version: 1.15.2-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 2185270
+Filename: shadowsocks-rust-ssmanager_1.15.2-1_x86_64.ipk
+Size: 2169272
+SHA256sum: 5fcf186a3a669fca3f481cb29219bf59f8a3210277ab960f3f3c2ac6cea68876
+Description:  shadowsocks-rust ssmanager
+
+Package: shadowsocks-rust-ssserver
+Version: 1.15.2-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 2120358
+Filename: shadowsocks-rust-ssserver_1.15.2-1_x86_64.ipk
+Size: 2105165
+SHA256sum: 5e7b2649b90e6ef157795b87259786aab9746e9fa1b928fa0ea98c3aa59ce234
+Description:  shadowsocks-rust ssserver
+
+Package: shadowsocks-rust-ssservice
+Version: 1.15.2-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 3281727
+Filename: shadowsocks-rust-ssservice_1.15.2-1_x86_64.ipk
+Size: 3261468
+SHA256sum: d072530f798f2434f468e59981acca9ac6c39ea6aa78722a51ce0c783df85bcf
+Description:  shadowsocks-rust ssservice
+
+Package: shadowsocks-rust-ssurl
+Version: 1.15.2-1
+Depends: libc
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 1040211
+Filename: shadowsocks-rust-ssurl_1.15.2-1_x86_64.ipk
+Size: 1026575
+SHA256sum: a90ef67e1526b95c60b8fe6f0972df3d70f2f7bc5bd166200211d7c454b07619
+Description:  shadowsocks-rust ssurl
+
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 2386
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_x86_64.ipk
+Size: 3116
+SHA256sum: 4897f53a92f06809285f20acadf693871cb09f8bb227d837c7038f8bf03707c2
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 63043
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_x86_64.ipk
+Size: 63890
+SHA256sum: f49cf48a36b0354d56bc9ddbb588cbfbc3a677f881072dad81860d1be34e2017
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-nat
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 2229
+Filename: shadowsocksr-libev-ssr-nat_2.5.6-9_x86_64.ipk
+Size: 2983
+SHA256sum: 44c2509069abc255cf0bf0bc46de8daeb1bc80d596bf3e2c0852f64b25be2e8e
+Description:  shadowsocksr-libev ssr-nat
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 56217
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_x86_64.ipk
+Size: 57015
+SHA256sum: 0f75805d8713d4a4ddf242653e97a6b23071467702d4ad475831b6faecd506d3
+Description:  shadowsocksr-libev ssr-redir
+
+Package: shadowsocksr-libev-ssr-server
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 65998
+Filename: shadowsocksr-libev-ssr-server_2.5.6-9_x86_64.ipk
+Size: 66827
+SHA256sum: a698d3e3afd0af1eabceba43e67ed8017e38ccb714126a2ae63997907ac53e5d
+Description:  shadowsocksr-libev ssr-server
+
+Package: simple-obfs-server
+Version: 0.0.5-1
+Depends: libc, libpthread, libev
+License: GPL-3.0-or-later
+Section: net
+Architecture: x86_64
+Installed-Size: 32872
+Filename: simple-obfs-server_0.0.5-1_x86_64.ipk
+Size: 33732
+SHA256sum: 587c47101574d0468a7c787ce0b3113662ee02229118572992d6a5b7089838cb
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: simple-obfs
+Version: 0.0.5-1
+Depends: libc, libpthread, libev
+License: GPL-3.0-or-later
+Section: net
+Architecture: x86_64
+Installed-Size: 30580
+Filename: simple-obfs_0.0.5-1_x86_64.ipk
+Size: 31360
+SHA256sum: 2934a168d7e385d2097846b80d2ed5e297d76c6189d1bd4c53ffaf92f970fbcf
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: sing-box
+Version: 1.1.2-1
+Depends: libc, ca-bundle, kmod-inet-diag, kmod-netlink-diag, kmod-tun
+License: GPL-3.0
+Section: net
+Architecture: x86_64
+Installed-Size: 6752680
+Filename: sing-box_1.1.2-1_x86_64.ipk
+Size: 6737240
+SHA256sum: 563c39774cfd951af7b656f6344a6baa7d4560673fb360c047da41069066f0bd
+Description:  The universal proxy platform.
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+License: GPL-2.0-only
+Section: net
+Architecture: x86_64
+Installed-Size: 3774
+Filename: tcping_0.3-1_x86_64.ipk
+Size: 4482
+SHA256sum: 243d787c06708d33e61fdfabff3e3b89f8ed1c1aa30261a68de068501e506298
+Description:  tcping measures the latency of a tcp-connection
+
+Package: v2ray-plugin
+Version: 5.2.0-1
+Depends: libc, ca-bundle
+License: MIT
+Section: net
+Architecture: x86_64
+Installed-Size: 5052166
+Filename: v2ray-plugin_5.2.0-1_x86_64.ipk
+Size: 5042556
+SHA256sum: 8b2591ed2ffb632070dcf78629dec01f52f91a8bb9a129f4bf1f79d5a948d080
+Description:  SIP003 plugin for shadowsocks, based on v2ray
+
